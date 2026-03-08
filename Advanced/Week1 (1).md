@@ -92,19 +92,34 @@ Excel
 <!-- 이번 챕터는 개념정리 없이 실습 인증사진으로 대체합니다. 강의를 수강하고, 실습 과정이 보이도록 인증사진 3-4장을 아래에 제출해주세요. -->
 
 <img width="408" height="884" alt="image" src="https://github.com/user-attachments/assets/c80c7a2a-b82b-466e-bd95-adafeea179f2" />
+
+
+
 ~~~
 비어있는 쇼핑몰 데이터 베이스 만들기
 ~~~
 
+
+
 <img width="1174" height="881" alt="image" src="https://github.com/user-attachments/assets/07bc18e1-0388-4b9d-ae96-c1e8867f9bcf" />
+
+
 ~~~
 데이터 테이블 만들기
 ~~~
 
+
+
+
 <img width="1181" height="889" alt="image" src="https://github.com/user-attachments/assets/cc8f4bc1-b909-4420-9f35-9860361f0e35" />
+
+
+
+
 ~~~
 데이터 입력하기
 ~~~
+
 
 
 
@@ -127,22 +142,32 @@ Excel
 <!-- 인덱스, 뷰, 스토어드 프로시저 실습을 각각 진행한 후, 각 실습에 대한 인증 사진을 1장씩 제출해 주세요. -->
 
 <img width="1185" height="887" alt="image" src="https://github.com/user-attachments/assets/dac9e28b-ec7f-49b9-89b3-2ad577cf382a" />
+
+
+
+
 ~~~
 인덱스 생성
 ~~~
 
 
+
+
 <img width="1176" height="893" alt="image" src="https://github.com/user-attachments/assets/5573f331-1642-4e45-9fb3-38b14db83df7" />
+
 
 ~~~
 뷰를 생성 후 확인
 ~~~
 
+
 <img width="1182" height="892" alt="image" src="https://github.com/user-attachments/assets/a49e1ec6-cd31-4f1e-9dec-7d41d896ab80" />
+
 
 ~~~
 스토어드 프로시저를 사용해 call문을 적용
 ~~~
+
 
 
 
