@@ -199,10 +199,47 @@ INSERT INTO students VALUES
 다음 SQL 문을 작성하고 실행 결과를 확인 후 인증 사진을 아래에 업로드하세요.
 
 1. 모든 학생의 정보를 조회하시오.
+
+
+<img width="653" height="295" alt="image" src="https://github.com/user-attachments/assets/ba28f309-0f9e-456a-95bf-d2be87e385ec" />
+
+
 2. 전공이 'Statistics'인 학생을 조회하시오.
+
+
+<img width="569" height="269" alt="image" src="https://github.com/user-attachments/assets/05bb3f22-cc75-4ce7-a5b4-b6b34b392ed6" />
+
+
+   
 3. 현재 students 테이블에 존재하는 서로 다른 전공의 개수를 구하시오.
+
+
+
+<img width="580" height="247" alt="image" src="https://github.com/user-attachments/assets/6d8813a1-ebfe-47ed-9cd9-6f322046a88f" />
+
+
+
 4. 나이가 20 이상이고 GPA가 3.5 이상인 학생을 조회하시오.
+
+
+
+
+
+<img width="467" height="209" alt="image" src="https://github.com/user-attachments/assets/75252e0b-ee8d-45e2-9bd9-c205a92d8634" />
+
+
+
+
+
+
 5. students 테이블에 본인의 정보를 직접 INSERT 하시오. (INSERT 실행 후, 데이터가 정상적으로 추가되었는지 확인할 수 있도록 조회 결과까지 포함하여 캡처하시오.)
+
+
+
+<img width="627" height="312" alt="image" src="https://github.com/user-attachments/assets/0c1bb491-8aa0-43f6-97fa-c0a0f1d502ec" />
+
+
+
 
 <!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
 
