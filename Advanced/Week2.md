@@ -47,9 +47,53 @@ https://www.youtube.com/watch?v=WWAFAm9op2U&list=PLVsNizTWUw7GCfy5RH27cQL5MeKYnl
 
 <!-- 기본적인 SQL 문법에 관해 배우게 된 점을 적어주세요. -->
 
+1. select, from, wherem, group by, having 절에 대해 배웠습니다.
+
+
+
 <!-- 이번 챕터에서 제시된 실습을 흐름에 맞게 진행한 후, 실습 과정이 보일 수 있도록 인증 사진을 3~4장 제출해 주세요. -->
 
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="572" height="141" alt="image" src="https://github.com/user-attachments/assets/cf55b9c3-a0cd-4dd2-b0a7-90551e68adfd" />
+
+
+
+~~~
+원하는 값을 채워넣는 방법
+~~~
+
+
+
+<img width="521" height="110" alt="image" src="https://github.com/user-attachments/assets/dae7252f-dc7e-430b-a49e-43fba240e7b5" />
+
+
+
+~~~
+두 개의 값을 한번에 채워 넣는 방법
+~~~
+
+
+
+<img width="425" height="110" alt="image" src="https://github.com/user-attachments/assets/6927d025-d35e-4485-8a76-d2ec1aa9af54" />
+
+
+~~~
+원하는 칼럼의 값 단위를 수정하는 방법
+~~~
+
+
+
+
+<img width="423" height="102" alt="image" src="https://github.com/user-attachments/assets/27df8f01-edba-406f-9baa-96335e61065b" />
+
+
+
+~~~
+특정 조건을 만족하는 값들을 지우는 방법
+~~~
+
+
+
+
 
 > **확인문제: 다음 SQL문의 빈칸에 들어갈 WHERE절의 문법으로 틀린 것을 고르세요.**
 
@@ -68,13 +112,13 @@ WHERE ________;
 ```
 
 ```
-여기에 답을 적어주세요!
+1번입니다. 나머지는 산술연산자이다. 같다고 말하고 싶다면 '='처럼 하나를 사용해줘야한다.
 ```
 
 
 ## 2. 좀 더 깊게 알아보는 SELECT문
 
-<!-- ORDER BY절과 GROUP BY절에 관해 배우게 된 점을 적어주세요. -->
+2. create와 insert 구문을 통해 테이블을 생성하고 데이터를 추가하는 법을 배웠습니다.
 
 > **확인문제: 다음 표는 주요 집계함수를 정리한 것입니다. 각 설명에 해당하는 올바른 함수명을 기호에 맞게 작성하세요.**
 
@@ -89,16 +133,16 @@ WHERE ________;
 
 ```
 여기에 답을 적어주세요!
-(ㄱ) 
-(ㄴ) 
-(ㄷ) 
-(ㄹ) 
+(ㄱ) - AVG() 
+(ㄴ) - MIN()
+(ㄷ) - COUNT()
+(ㄹ) - COUNT(DISTINCT)
 ```
 
 
 ## 3. 데이터 변경을 위한 SQL문
 
-<!-- INSERT문, UPDATE문, DELETE문에 관해 배우게 된 점을 적어주세요. -->
+3. update와 delete 구문을 통해 데이터를 삭제 혹은 수정하는 법을 배웠습니다.
 
 > **확인문제: 다음이 설명하는 SQL이 무엇인지 쓰세요.**
 
@@ -109,7 +153,7 @@ WHERE ________;
 ```
 
 ```
-여기에 답을 적어주세요!
+TRUNCATE
 ```
 
 
